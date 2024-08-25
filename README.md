@@ -21,6 +21,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º período,
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
 
+### 📊 Estatísticas do GitHub:
+![Estatísticas de Felipe](https://github-readme-stats.vercel.app/api?username=FillDias&show_icons=true&theme=dracula)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FillDias&layout=compact&theme=dracula)
+
 ### 🌟 Projetos em destaque:
 - [**E-commerce Eleganza**](https://github.com/FillDias/Eleganza) - Projeto de e-commerce desenvolvido com React, TypeScript, Node.js, e mais.
 - [**Vouch3**](https://github.com/FillDias/Vouch3) - Colaborei no desenvolvimento do front-end de um projeto Web3 pela MegaLab.
@@ -32,6 +37,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º período,
 ---
 
 ⚡ **"Sempre aprendendo e evoluindo"**
+
 
 
 
