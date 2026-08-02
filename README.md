@@ -1,4 +1,4 @@
-# Felipe Dias 👋
+# Felipe Dias 
 
 Desenvolvedor **Fullstack** com foco em **Frontend & Mobile**, expandindo para **backend com Ruby on Rails**. Gosto de construir produtos completos — da interface ao servidor — unindo código limpo, boa experiência de usuário e infraestrutura que funciona de verdade (sim, também vivo no terminal Linux).
 
@@ -36,7 +36,7 @@ Desenvolvedor **Fullstack** com foco em **Frontend & Mobile**, expandindo para *
 
 ---
 
-## 🚀 Projetos em Destaque
+## Destaque
 
 ### [Pactum](https://github.com/FillDias/pactum-website)
 App fintech em desenvolvimento com frontend web em **Next.js + TypeScript** e backend evoluindo para **Ruby on Rails** com microsserviço em **Kotlin** para transações críticas.
