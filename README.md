@@ -1,7 +1,6 @@
 # Felipe Dias 
 
-Desenvolvedor **Fullstack** com foco em **Frontend & Mobile**, expandindo para **backend com Ruby on Rails**. Gosto de construir produtos completos — da interface ao servidor — unindo código limpo, boa experiência de usuário e infraestrutura que funciona de verdade (sim, também vivo no terminal Linux).
-
+Desenvolvedor **Fullstack** com foco em **Frontend & Mobile**, expandindo para **backend com Ruby on Rails**. Gosto de construir produtos completos — da interface ao servidor.
 ---
 
 ## 💻 Tech Stack
